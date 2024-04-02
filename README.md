@@ -30,6 +30,12 @@ File_Name : "dailyActivity_merged"
 
 ![Pie chart showing worker active time composition](https://github.com/bib3k/SmartWatch-Data-Analysis/assets/42508518/79046b7b-b417-4a79-b053-b63f64c0995d)
 
-    
+3. Additionally, Daily calorie burning also has linear realtionship with total distance traveled in a day.
+
+
+ ![Scatter plot for Total Distance vs Calorie Burned](https://github.com/bib3k/SmartWatch-Data-Analysis/assets/42508518/d0a09684-138c-4844-857e-3d6f763389cb)
+
+4. Finally, Graph showing distribution of Very, Fairly, and Lightly Active minutes.  
+
  
- 
+![newplot(3)](https://github.com/bib3k/SmartWatch-Data-Analysis/assets/42508518/ac6b16fd-850c-4a6c-a669-e75b58f827ce)
