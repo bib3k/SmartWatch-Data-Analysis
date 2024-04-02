@@ -12,12 +12,24 @@ File_Name : "dailyActivity_merged"
 
 **Libraries Used:**
 
- 1.Pandas
- 2.Numpy
- 3.Plotly
+ 1. Pandas
+ 2. Numpy
+ 3. Plotly
+
+ **Findings:**
+
+ 1. Burning Calories is linearly related  to number of steps. User with high number of steps has burned more calories then lower number of steps.
 
 
 
- 
+
+ ![Scatter Plot between Calories & Total Steps](https://github.com/bib3k/SmartWatch-Data-Analysis/assets/42508518/bfd9c5e9-535f-4a64-b13a-25cfd56b42cd)
+
+
+2. On Average, 82% of the time workers are Inactive and Lightly active for only 1.63 % daily. Whereas as they are  very active and light active around same amount of 1.63% and 1.11 % respectively.
+
+![Pie chart showing worker active time composition](https://github.com/bib3k/SmartWatch-Data-Analysis/assets/42508518/79046b7b-b417-4a79-b053-b63f64c0995d)
+
+    
  
  
